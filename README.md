@@ -1,7 +1,7 @@
-<!-- PROJECT LOGO -->
-<br />
+
 <div align="center">
-  <h1 align="center">KallistiOS ChatGPT</h1>
+  <img src="kallistiOSChatGPT.png" alt="KallistiOS ChatGPT Logo" style="width: 100px; height: 100px;">
+  <h3 align="center">KallistiOS ChatGPT</h3>
 </div>
 
 Is a custom tailored version of ChatGPT to be more helpful for programming for the Sega Dreamcast using KallistiOS.
