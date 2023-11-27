@@ -1,6 +1,8 @@
 
 <div align="center">
-  <img src="kallistiOSChatGPT.png" alt="KallistiOS ChatGPT Logo" style="width: 100px; height: 100px;">
+  <a href="https://chat.openai.com/g/g-b64xrLn8h-kallistios-dev-guru">
+    <img src="kallistiOSChatGPT.png" alt="KallistiOS ChatGPT Logo" style="width: 100px; height: 100px;">
+  </a>
   <h3 align="center">KallistiOS ChatGPT</h3>
 </div>
 
